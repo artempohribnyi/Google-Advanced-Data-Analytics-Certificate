@@ -12,13 +12,13 @@ Throughout this program, you will explore concepts and scenarios that will help 
 
 The Google Advanced Data Analytics has seven courses. During each course, you will complete hands-on activities that are similar to work performed by data analytics professionals every day. In doing so, you’ll gain experience that will help you effectively reveal the stories within the data and build models that can provide insight into trends. By the end of this program, you’ll understand how to program using Python, prepare data for analysis, utilize statistics with data, build predictive models, optimize machine learning capabilities, and much more. The courses of the program are as follows:
 
-1. Foundations of Data Science
-2. Get Started with Python
-3. Go Beyond the Numbers: Translate Data into Insights
-4. The Power of Statistics
-5. Regression Analysis: Simplify Complex Data Relationships
-6. The Nuts and Bolts of Machine Learning
-7. Google Advanced Data Analytics Capstone
+1. [Foundations of Data Science](https://www.coursera.org/learn/foundations-of-data-science/home/week/1)
+2. [Get Started with Python](https://www.coursera.org/learn/get-started-with-python/home/week/1)
+3. [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/home/week/1)
+4. [The Power of Statistics](https://www.coursera.org/learn/the-power-of-statistics/home/week/1)
+5. [Regression Analysis: Simplify Complex Data Relationships](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships/home/week/1)
+6. [The Nuts and Bolts of Machine Learning](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/week/1)
+7. [Google Advanced Data Analytics Capstone](https://www.coursera.org/learn/google-advanced-data-analytics-capstone/home/week/1)
  
 ![image](https://github.com/artempohribnyi/Google-Advanced-Data-Analytics-Certificate/assets/113499718/cec917a2-8fa9-4046-88a4-05f13e82b9e4)
 
