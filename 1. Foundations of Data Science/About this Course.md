@@ -6,14 +6,14 @@ Learners who complete the seven courses in this program will have the skills nee
 
 By the end of this course, you will:
 
--Describe the functions of data analytics and data science within an organization
+- Describe the functions of data analytics and data science within an organization
 
--Identify tools used by data professionals 
+- Identify tools used by data professionals 
 
--Explore the value of data-based roles in organizations 
+- Explore the value of data-based roles in organizations 
 
--Investigate career opportunities for a data professional 
+- Investigate career opportunities for a data professional 
 
--Explain a data project workflow 
+- Explain a data project workflow 
 
--Develop effective communication skills
+- Develop effective communication skills
